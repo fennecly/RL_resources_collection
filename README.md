@@ -11,12 +11,14 @@
 - **UC Berkeley CS 285**: Deep Reinforcement Learning
 - **RL Course by David Silver**
 - **A Free course in Deep Reinforcement Learning from beginner to expert** by Thomas Simonini
+- **Advanced Deep Learning and Reinforcement Learning** (by DeepMind)
 
 ## Tutorials
 
 - [Reinforcement Learning tutorial by Sentdex](https://www.youtube.com/user/sentdex)
 - [Reinforcement Learning Series by Deep Lizard](https://deeplizard.com/learn/video/PyQNfsGUnQA)
 - [Reinforcement Learning With OpenAI Gym by Phil](https://www.youtube.com/watch?v=JNKvJEzuNsc)
+- [Introduction to Reinforcement Learning with Python by School of AI](https://www.youtube.com/playlist?list=PLZbbT5o_s2xqYzmhtzyx6Skn8mELF0Nnq)
 
 ## Books
 
@@ -25,10 +27,12 @@
 - **Deep Reinforcement Learning Hands-On**, by Maxim Lapan
 - **Deep Reinforcement Learning in Action**, by Alexander Zai and Brandon Brown
 - **Grokking Deep Reinforcement Learning**, by Miguel Morales
+- **Practical Reinforcement Learning**, by Fedor Ratnikov and Andrei V. Borisenko
 
 ## Articles
 
 - [From-scratch implementation of AlphaZero for Connect4 by Wee Tee Soh](https://medium.com/@weeteesoh/from-scratch-implementation-of-alphazero-for-connect4-b76d5588a14a)
+- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
 ## Notebooks by ArjanGroen
 
