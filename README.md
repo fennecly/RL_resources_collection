@@ -1,19 +1,19 @@
 # RL_resources_collection
 
-Useful courses, books, ... for Reinforcement Learning
-Courses
-Reinforcement Learning Specialization (Coursera, free auditing)
-https://www.coursera.org/learn/fundamentals-of-reinforcement-learning
-https://www.coursera.org/learn/sample-based-learning-methods
-https://www.coursera.org/learn/prediction-control-function-approximation
-https://www.coursera.org/learn/complete-reinforcement-learning-system
-Stanford CS234: Reinforcement Learning
-UC Berkely: CS 285: Deep Reinforcement Learning
-RL Course by David Silver
-A Free course in Deep Reinforcement Learning from beginner to expert by Thomas Simonini
-Tutorials
-Reinforcement Learning tutorial by Sentdex
-Reinforcement Learning Series by Deep Lizard
+#Useful courses, books, ... for Reinforcement Learning
+#Courses
+#Reinforcement Learning Specialization (Coursera, free auditing)
+#https://www.coursera.org/learn/fundamentals-of-reinforcement-learning
+#https://www.coursera.org/learn/sample-based-learning-methods
+#https://www.coursera.org/learn/prediction-control-function-approximation
+#https://www.coursera.org/learn/complete-reinforcement-learning-system
+#Stanford CS234: Reinforcement Learning
+#UC Berkely: CS 285: Deep Reinforcement Learning
+#RL Course by David Silver
+#A Free course in Deep Reinforcement Learning from beginner to expert by Thomas Simonini
+#Tutorials
+#Reinforcement Learning tutorial by Sentdex
+#Reinforcement Learning Series by Deep Lizard
 Reinforcement Learning With OpenAI Gym by Phil
 Books
 Reinforcement Learning: An Introduction, by Richard S. Sutton and Andrew G. Barto
