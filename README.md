@@ -62,7 +62,3 @@
 ## Podcasts
 
 - [TalkRL: The Reinforcement Learning Podcast](https://www.talkrl.com/)
-
-### Contribution
-
-If you have any useful resources related to Reinforcement Learning, please share them with me! You can share your recommendations through comments here, or elsewhere of your choice. 😄
