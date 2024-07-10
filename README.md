@@ -1,6 +1,6 @@
 # Reinforcement Learning Resources
 
-## Courses
+## Reinforcement Learning Courses
 
 - **Reinforcement Learning Specialization** (Coursera, free auditing)
   - [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
